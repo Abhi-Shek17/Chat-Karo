@@ -12,5 +12,5 @@ Real time chat app made with  React,Nodejs,socket.io,etc
 # Features
 
 ### Authenticaton
-![](https://github.com/Abhi-Shek17/Chat-Karo/blob/screenshots/login.PNG)
-![](https://github.com/Abhi-Shek17/Chat-Karo/blob/screenshots/signup.PNG)
+![](https://github.com/Abhi-Shek17/Chat-Karo/blob/screenshots/login.png)
+![](https://github.com/Abhi-Shek17/Chat-Karo/blob/screenshots/signup.png)
